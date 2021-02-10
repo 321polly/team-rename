@@ -1,5 +1,6 @@
 # Mid-Bootcamp-Project
 ## Study: Classification
+Contributors: Brett | Sybille | Manuel | Polly
 ### Objective
 - Build a model based on the dataset that will provide insight into why some bank customers accept credit card offers. 
 - Provide additional areas of opportunities that the bank wants to understand from the data.
