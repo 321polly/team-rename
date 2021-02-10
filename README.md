@@ -16,6 +16,4 @@ Contributors: Brett | Sybille | Manuel | Polly
 - Jupyter Notebook 
 
 ### Evaluation criteria
-- Rubrics
-
-[Rubrics](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/DATA2020-MidBootcamp+Project+Rubrics+-+Sheet1.pdf)
+- [Rubrics](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/DATA2020-MidBootcamp+Project+Rubrics+-+Sheet1.pdf)
