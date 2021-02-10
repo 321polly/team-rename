@@ -1,4 +1,4 @@
-# Mid-Bootcamp-Project Case Study: Classification
+# Mid-Bootcamp-Project
 ## Study: Classification
 ### Objective
 Build a model that will provide insight into why some bank customers accept credit card offers. There are also other potential areas of opportunities that the bank wants to understand from the data.
