@@ -1,9 +1,12 @@
 # Mid-Bootcamp-Project
 ## Study: Classification
 ### Objective
-Build a model that will provide insight into why some bank customers accept credit card offers. There are also other potential areas of opportunities that the bank wants to understand from the data.
-
-Your senior management has also posted these other questions that will help them better understand their customers.
+- Build a model based on the dataset that will provide insight into why some bank customers accept credit card offers. 
+- Provide additional areas of opportunities that the bank wants to understand from the data.
+- Anweser following questions that will help the business to better understand their customers:
+1. Question 1
+2. Question 2
+3. Question 3
 
 ### Deliverables
 - Slides.com Presentaion
