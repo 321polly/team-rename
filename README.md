@@ -15,10 +15,10 @@ We aim to answer the following objectives.
 
 ### Deliverables
 To perform this analysis, we have provided the following within the repository:
-- [Google Slides Presentaion](https://docs.google.com/presentation/d/1rUbLI60Y-t7gstO1q9IfGX1dv8E1oYBmZRfLCJK7UkU/edit?usp=sharing)
-- [SQL Queries](https://github.com/mazim-co/team-rename/blob/main/SQL_Question_Classification_Solution.md)
-- Tableau Dashboard
-- [Python Jupyter Notebook](https://github.com/mazim-co/team-rename/blob/main/mid-boot-v2.4.final.ipynb)
+- 🗺 [Google Slides Presentaion](https://docs.google.com/presentation/d/1rUbLI60Y-t7gstO1q9IfGX1dv8E1oYBmZRfLCJK7UkU/edit?usp=sharing)
+- 🗄 [SQL Queries](https://github.com/mazim-co/team-rename/blob/main/SQL_Question_Classification_Solution.md)
+- 📊 Tableau Dashboard
+- 🐍 [Python Jupyter Notebook](https://github.com/mazim-co/team-rename/blob/main/mid-boot-v2.4.final.ipynb)
 
 ### Evaluation criteria
 - [Rubrics](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/DATA2020-MidBootcamp+Project+Rubrics+-+Sheet1.pdf)
