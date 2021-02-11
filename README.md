@@ -13,6 +13,8 @@ We aim to answer the following objectives.
 1. What are the demographics and characteristics of customers who accept or reject credit offers?
 2. What insights did you discover within your analysis which would be meaningful to the bank?
 
+This project features all steps of data analysis beyond data gathering; EDA, cleaning, addressing a data imbalance, and subsequent analysis to answer these questions.
+
 ### Deliverables
 To perform this analysis, we have provided the following within the repository:
 - 🗺 &emsp; [Google Slides Presentation](https://docs.google.com/presentation/d/1rUbLI60Y-t7gstO1q9IfGX1dv8E1oYBmZRfLCJK7UkU/edit?usp=sharing)
