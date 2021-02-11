@@ -8,7 +8,7 @@ We aim to answer the following objectives.
 ### Objective
 - Build a model based on the dataset that will provide insight into why some bank customers accept credit card offers. 
 - Provide additional areas of opportunities that the bank wants to understand from the data.
-- Anweser following questions that will help the business to better understand their customers:
+- Answer following questions that will help the business to better understand their customers:
 
 1. What are the demographics and characteristics of customers who accept or reject credit offers?
 2. What insights did you discover within your analysis which would be meaningful to the bank?
