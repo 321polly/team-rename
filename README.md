@@ -11,7 +11,7 @@ We aim to answer the following objectives.
 - Anweser following questions that will help the business to better understand their customers:
 
 1. What are the demographics and characteristics of customers who accept or reject credit offers?
-2. QWhat insights did you discover within your analysis which would be meaningful to the bank?
+2. What insights did you discover within your analysis which would be meaningful to the bank?
 
 ### Deliverables
 To perform this analysis, we have provided the following within the repository:
