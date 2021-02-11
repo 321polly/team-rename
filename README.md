@@ -15,7 +15,7 @@ We aim to answer the following objectives.
 
 ### Deliverables
 To perform this analysis, we have provided the following within the repository:
-- 🗺 &emsp; [Google Slides Presentaion](https://docs.google.com/presentation/d/1rUbLI60Y-t7gstO1q9IfGX1dv8E1oYBmZRfLCJK7UkU/edit?usp=sharing)
+- 🗺 &emsp; [Google Slides Presentation](https://docs.google.com/presentation/d/1rUbLI60Y-t7gstO1q9IfGX1dv8E1oYBmZRfLCJK7UkU/edit?usp=sharing)
 - 🗄 &emsp; [SQL Queries](https://github.com/mazim-co/team-rename/blob/main/SQL_Question_Classification_Solution.md)
 - 📊 &emsp; [Tableau Dashboard](https://public.tableau.com/views/Mid-boot-classification-tableau-dashboard/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 - 🐍 &emsp; [Python Jupyter Notebook](https://github.com/mazim-co/team-rename/blob/main/mid-boot-v2.4.final.ipynb)
